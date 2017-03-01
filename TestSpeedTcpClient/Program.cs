@@ -88,7 +88,7 @@ namespace TestSpeedTcpClient
             return count;
         }
 
-        // Тест скорости с подключением и разрывом соединения
+         // Тест скорости с подключением и разрывом соединения
         static int TestOneConnection()
         {
 
